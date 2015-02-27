@@ -1,16 +1,16 @@
 {
-  "name": "hubot-windows-dameOS",
-  "description": "『Windows』って聞こえたら『ダメなOS』って答えるやつ",
+  "name": "hubot-somosan-seppa",
+  "description": "『そもさん』って聞こえたら『せっぱ』って答えるやつ",
   "version": "0.0.0",
   "author": "highwide <hochweit728@gmail.com",
   "license": "MIT",
   "keywords": "hubot, hubot-scripts, joke",
   "repository": {
     "type": "git",
-    "url": "https://github.com/prototype-cafe/hubot-windows-dameOS"
+    "url": "https://github.com/prototype-cafe/hubot-somosan-seppa"
   },
   "bugs": {
-    "url": "https://github.com/prototype-cafe/hubot-windows-dameOS/issues"
+    "url": "https://github.com/prototype-cafe/hubot-somosan-seppa/issues"
   },
   "dependencies": {},
   "peerDependencies": {
