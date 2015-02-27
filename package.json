@@ -1,0 +1,35 @@
+{
+  "name": "hubot-windows-dameOS",
+  "description": "『Windows』って聞こえたら『ダメなOS』って答えるやつ",
+  "version": "0.0.0",
+  "author": "highwide <hochweit728@gmail.com",
+  "license": "MIT",
+  "keywords": "hubot, hubot-scripts, joke",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prototype-cafe/hubot-windows-dameOS"
+  },
+  "bugs": {
+    "url": "https://github.com/prototype-cafe/hubot-windows-dameOS/issues"
+  },
+  "dependencies": {},
+  "peerDependencies": {
+    "hubot": "2.x"
+  },
+  "devDependencies": {
+    "chai": "*",
+    "coffee-script": "^1.8.0",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-mocha-test": "~0.12.4",
+    "grunt-release": "~0.9.0",
+    "hubot": "2.x",
+    "matchdep": "~0.3.0",
+    "mocha": "*",
+    "sinon": "*",
+    "sinon-chai": "*"
+  },
+  "main": "index.coffee",
+  "scripts": {
+    "test": "grunt test"
+  }
+}
